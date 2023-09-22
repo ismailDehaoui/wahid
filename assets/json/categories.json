@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "cat_id": 1,
+            "cat_image": "assets/images/categories/COLORS-FINAL.png"
+        },
+        {
+            "cat_id": 2,
+            "cat_image": "assets/images/categories/ARABIC-LETTER.png"
+        }
+    ]
+}

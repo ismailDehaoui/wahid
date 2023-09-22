@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041643118289",
+    "project_id": "wahid-f7102",
+    "storage_bucket": "wahid-f7102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041643118289:android:1ca68ed3d4a4290b966ff0",
+        "android_client_info": {
+          "package_name": "com.example.wahid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041643118289-nkdqc3gpj110fhh449somngptv8232ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wahid",
+            "certificate_hash": "6168a15852af8f72d7ed1337b01aaeb998abe63f"
+          }
+        },
+        {
+          "client_id": "1041643118289-bpc4j2nvonoerlt3d6ug7esme7ol3350.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2XaKjC4gTpd6ZzlHlwOe5EHEn1UejEyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041643118289-bpc4j2nvonoerlt3d6ug7esme7ol3350.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
